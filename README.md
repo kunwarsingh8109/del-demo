@@ -1,2 +1,2 @@
 # del-demo
-This is a dem for git and Github classes.
+This is a demo for git and Github classes.
